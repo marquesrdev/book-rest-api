@@ -1,0 +1,4 @@
+Update:
+    ☐ Check if all fields are being updated in order to update only the ones that have changed value;
+Delete:
+    ☐ Check the response when trying to delete an app passing an unexistent/not found id;
